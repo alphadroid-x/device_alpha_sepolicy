@@ -18,6 +18,7 @@ ro.vendor.audio.dolby.surround.enable  u:object_r:exported_system_prop:s0
 
 # Custom version
 ro.alpha.version                     u:object_r:custom_version_prop:s0
+ro.alpha.build.branch                u:object_r:custom_version_prop:s0
 ro.alpha.build.version               u:object_r:custom_version_prop:s0
 ro.alpha.release.type                u:object_r:custom_version_prop:s0
 ro.alpha.build.variant               u:object_r:custom_version_prop:s0
